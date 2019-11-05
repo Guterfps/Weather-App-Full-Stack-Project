@@ -20,7 +20,7 @@
   "dependencies": {
     "body": "^5.1.0",
     "express": "^4.17.1",
-    "mongoose": "^5.6.4",
+    "mongoose": "^5.7.5",
     "nodemon": "^1.19.1",
     "parser": "^0.1.4",
     "request": "^2.88.0"
